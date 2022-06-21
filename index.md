@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# IT 253 Computer Systems Security
 
-You can use the [editor on GitHub](https://github.com/SnugglezPanda/Computer-Systems-Security/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Module 8 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In this final module you will be reading about emerging technologies and how they impact the realm of information security.
+The security challenges that these technologies present are new. Cloud-based systems and the internet of things (IoT) have allowed us to connect in ways we have not connected before, which means security professionals are analyzing and evaluating new ways to protect information and systems that may be presenting new vulnerabilities. 
 
-### Markdown
+This module will cover social engineering attacks and passwords attacks. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### TestOut Security Pro
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SnugglezPanda/Computer-Systems-Security/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<strong>Cloud Services Introduction</strong>
